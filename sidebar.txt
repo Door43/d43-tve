@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tve:home|Door43 (tve)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tve|d43-tve repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tve/archive/master.zip|d43-tve.zip]]
+
+**Recent Changes**
+{{changes>ns = tve}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tve|Ethnologue data]]
+
